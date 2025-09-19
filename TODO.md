@@ -1,0 +1,3 @@
+- [x] Create app.py with Streamlit code implementing user auth, database setup, inspection forms, evaluation, PDF generation, and data saving
+- [ ] Install dependencies from requirements.txt
+- [ ] Run the Streamlit app
